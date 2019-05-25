@@ -1,0 +1,495 @@
+﻿1@regression@n. 衰退
+2@mineralization@n. 矿化,使含矿物
+3@evapotranspiration@n. 土壤水分蒸发蒸腾损失总量
+4@methodology@- n. 一套方法
+- 方法学,方法论
+- adj. 方法学的
+- n. 方法论者,方法学者
+
+形容词:  
+methodological
+
+副 词:  
+methodologically
+5@fluorescence@n. 荧光,荧光性
+6@heterotrophic@adj. 不是自养的
+7@nocturnal@- adj. 夜的,夜间发生的
+- (动物)夜间活动的
+- n. 夜间活动性
+- adv. 夜间活动地
+
+副 词:  
+nocturnally
+8@extrapolate@vt. (由已知资料对未知事实或价值)推算,推断
+
+时 态:  
+extrapolated, extrapolating, extrapolates 
+
+名 词:  
+extrapolation
+
+形容词:  
+extrapolative
+
+名 词:  
+extrapolator...
+9@filter@- n. 过滤, 过滤器
+- vt. & vi. 透过, 过滤
+- vi. (消息等)走漏
+
+时 态:  
+filtered, filtering, filters 
+
+名 词:  
+filterer
+
+形容词:  
+filterless
+10@trench@- n. 沟，沟渠；战壕；堑壕
+- vt. 掘沟
+- vi. 挖战壕；侵害
+
+Trench特伦奇(①姓氏 ②Richard Chenevix, 1807-1886, 英国诗人及文字学家)
+
+时 态:  
+trenched, trenching, trenches...
+11@trenched@挖有沟槽的
+12@intercept@vt. 拦截, 截住, 截击
+
+时 态:  
+intercepted, intercepting, intercepts 
+
+形容词:  
+interceptive
+13@ring@- vi. 按铃；敲钟；回响；成环形
+- n. 铃声，钟声；环形物；拳击场；戒指
+- vt. 按铃；敲钟；包围；套住
+
+
+时 态:  
+ringed, ringing, rings
+14@overstory@n. 上层林冠,上层林
+15@sapling@n. 幼树, 树苗
+16@fold@- vt. 折叠；合拢；抱住；笼罩
+- n. 折痕；羊栏；信徒
+- vi. 彻底失败；折叠起来
+
+
+时 态:  
+folded, folding, folds 
+
+形容词:  
+foldable
+17@homogenous@adj. 同质的,纯系的
+18@aggregation@- n. 聚集,集成;集结
+- 聚集体,集成体
+19@aggravation@n. 加重(病情、负担、罪行、危机等的),更恶化,恼怒
+20@decomposer@n. 分解体(分解已败死的原生质之有机体)
+21@deplete@vt. 〈正〉使大大的减少; 使空虚
+
+时 态:  
+depleted, depleting, depletes 
+
+形容词:  
+depletable
+22@hypothetic@adj. 假设的,假定的
+23@respiration@- n. 呼吸, 一次呼吸
+- (植物的)呼吸
+
+形容词:  
+respirational
+24@sample distribution@样本分布，抽样分布；采样分布
+25@根毛@gēn máo 
+ 
+{植} root hair
+26@sprout@- vi. 发芽；长芽
+- vt. 使发芽；使萌芽
+- n. 芽；萌芽；苗芽
+
+
+时 态:  
+sprouted, sprouting, sprouts
+27@caliper@- n. 测径器,卡钳,弯脚器
+- vt. 用卡钳测量
+
+动 词:  
+caliper
+28@vernier@- n. 游标（等于vernier scale）；微调发动机（等于vernier engine）
+- adj. 装游标的；有微调装置的
+29@transect@- v. 横断,横切
+- n. 横断面
+
+时 态:  
+transected, transecting, transects 
+
+名 词:  
+transection
+30@allometric@adj. 异速生长的
+31@sequential@adj. 按次序的,相继的,构成连续镜头的
+
+名 词:  
+sequentiality
+
+副 词:  
+sequentially
+32@detrital@adj. 由岩屑形成的；碎屑的
+33@regime@n. 政权，政体；社会制度；管理体制
+34@contemporary@- adj. 当代的
+- 同时代的, 同属一个时期的
+- n. 同代人, 同龄人
+
+副 词:  
+contemporarily
+35@pending@- adj. 未决定的；行将发生的
+- prep. 在…期间；直到…时为止；在等待…之际
+- v. 待定；悬而不决（pend的ing形式）
+36@veracity@n. 诚实;真实
+37@robust@adj. 强健的；健康的；粗野的；粗鲁的
+
+
+副 词:  
+robustly
+
+名 词:  
+robustness
+38@abiotic@adj. 非生物的，无生命的
+
+
+名 词:  
+abiosis
+
+副 词:  
+abiotically
+39@thematic@adj. 题目的；[音]主题的，主旋律的；[语]语干的
+
+
+副 词:  
+thematically
+40@semiarid@adj. 雨量非常少的;半干旱的
+
+名 词:  
+semiaridity
+41@review@- n. 回顾; 检查; 检讨; 重新考虑
+- 评论性刊物, 评论
+- 检阅
+- vt. 回顾
+- vt. & vi. 写…的评论文章
+
+时 态:  
+reviewed, reviewing, reviews 
+
+形容词:  
+reviewable
+42@overview@n. 概观；综述
+43@autocorrelation@n. 自相关
+44@seismic@adj. [地]地震的；因地震而引起的
+
+
+副 词:  
+seismically
+
+名 词:  
+seismicity
+45@tortoise@n. 迟缓的人；龟，乌龟（等于testudo）
+46@dispersion@n. 散布,驱散,传播,散射;离差,差量
+47@conversion@- n. 变换, 转化
+- (宗教、信仰等)彻底改变; 皈依
+
+形容词:  
+conversional  or
+48@physiography@n. 地文学,地相学
+
+名 词:  
+physiographer
+
+形容词:  
+physiographic
+
+副 词:  
+physiographically
+49@notable@- adj. 值得注意的，显著的；著名的
+- n. 名人，显要人物
+
+
+名 词:  
+notableness
+
+副 词:  
+notably
+50@sample@- vt. 取样；抽样检查；尝试
+- n. 样品；样本；例子
+- adj. 作为例子的；试样的，样品的
+
+
+时 态:  
+sampled, sampling, samples
+51@heterogeneity@n. 异质性;不均匀性;不纯一性
+52@qualitative@adj. 定性的, 性质(上)的; 质量的
+
+副 词:  
+qualitatively
+53@mute@- adj. 缄默的; 无声的
+- 哑的, 不会说话的
+- (字母)不发音的
+- n. 哑巴
+- (乐器上的)弱音器
+- vt. 消除(声音), 减轻(声音)
+
+比较级:  
+muter, mutest 
+
+副 词:  
+mutely
+
+名 词:  
+muteness...
+54@protract@vt. 延长；绘制；伸展
+
+
+时 态:  
+protracted, protracting, protracts 
+
+副 词:  
+protractedly
+
+名 词:  
+protractedness
+
+形容词:  
+protractive
+55@protracted@adj. 拖延的;长时间的；延长的
+56@erratic@- adj. 不稳定的；古怪的
+- n. 漂泊无定的人；古怪的人
+
+
+副 词:  
+erratically
+
+名 词:  
+erraticism
+57@sequestration@n. 扣押；隔离；退隐
+58@exudation@n. 渗出,渗出物,分泌
+
+形容词:  
+exudative
+59@mycorrhizal@正在加载...
+
+拼写近似单词: mycorrhiza  mycorrhizae  mycorhiza
+60@turnover@- n. 翻覆；营业额；流通量；半圆卷饼；[篮球]失误
+- adj. 翻过来的；可翻转的
+61@plausible@- adj. (声明、争论等)似乎是真的
+- 花言巧语的, 能说会道的
+
+名 词:  
+plausibility  or
+
+副 词:  
+plausibly
+62@phenology@n. 生物气候学
+
+形容词:  
+phenological
+
+副 词:  
+phenologically
+
+名 词:  
+phenologist
+63@longevity@n. 长寿, 长命
+
+形容词:  
+longevous
+64@range@- n. 范围；山脉；排；幅度
+- vi. 平行，列为一行；延伸；漫游；射程达到
+- vt. 使并列；归类于；漫游；来回走动；放牧
+
+
+时 态:  
+ranged, ranging, ranges
+65@increment@- n. 增长
+- 增额
+
+形容词:  
+incremental
+
+副 词:  
+incrementally
+66@bryophyte@n. 苔藓植物；苔藓类的植物
+
+
+形容词:  
+bryophytic
+67@aerophyte@n. 附生植物
+68@biota@n. 生物区（系）；一时代（一地区）的动植物
+69@hemicryptophyte@n. 半隐芽植物
+70@cryptophyte@隐芽植物
+71@geophyte@n. 地下芽植物（指休眠芽深在土层中的多年生植物）
+72@平等的@píng děng de 
+ au pair
+73@scope@- n. 视野；眼界；范围；余地；导弹射程
+- vt. [俚]审视
+
+
+时 态:  
+scoped, scoping, scopes
+74@scop@n. 吟游诗人（古代盎格鲁撒克逊的吟游诗人）
+75@余地@yú dì 
+ room, space
+76@社会@shè huì 
+ 
+
+- society
+- community
+- world
+77@affirmative@- adj. 肯定的
+- (对辩论问题)表示赞成的，认可的
+- (态度、方法等)积极的，正面的
+- 乐观的，抱有希望的
+- 敢说的；自信的；确信的
+- (命题)肯定的，断言的
+- n. 肯定词；肯定语；肯定表达法
+- 肯定命题；肯定的陈述
+- (the ～)(投票或辩论中)赞成的一方
+- 表示赞成，以肯定方式
+- 作肯定回答，说“是”
+- (在辩论时)站在赞成的一方
+
+副 词:  
+affirmatively...
+78@endorse@- vt. 在(尤指支票的)背面签字;背书
+- 赞同,认可,支持(意见,活动,某人等)
+- 在广告上说本人使用并赞同某产品
+- 在(文件的)背面写评论;批注(公文)
+- 在(驾驶执照上)记录违章事项
+
+时 态:  
+endorsed, endorsing, endorses 
+
+形容词:  
+endorsable
+
+名 词:  
+endorser  or...
+79@differentiation@n. 区别；分化
+80@moss@- n. 苔藓；泥沼
+- vt. 使长满苔藓
+
+MOSSabbr. Manned Orbital Space Station 载人轨道空间站
+
+时 态:  
+mossed, mossing, mosses
+81@vascular@adj. 血管的
+
+
+名 词:  
+vascularity
+82@stock@- n. 储备品, 供应物
+- (商店的)现货, 存货
+- 公债; 股份; 股票
+- 原汤, 汤料
+- 家系, 家世, 血统
+- vt. 储备, 保持…的供应
+- adj. 通常备有现货的; 常备的
+- 常用的; 陈腐的
+
+时 态:  
+stocked, stocking, stocks 
+
+名 词:  
+stockage
+
+名 词:  
+stocker...
+83@spruce@- vi. 打扮整齐；使显干净
+- adj. 整洁的
+- vt. 打扮整齐
+- n. 云杉
+
+
+比较级:  
+sprucer, sprucest 
+
+副 词:  
+sprucely
+
+名 词:  
+spruceness
+84@coring@- n. [物]核化；结晶偏析；取岩心
+- v. 去（果）核；提取岩芯（core的ing形式）
+85@crown fire@正在加载...
+86@mosaic@- adj. 摩西的；拼成的；嵌花式的
+- n. 马赛克；镶嵌细工；镶嵌
+
+Mosaicadj. (希伯来《圣经》中)摩西的; 摩西律法书的
+
+时 态:  
+mosaicked, mosaicking, mosaics 
+
+名 词:  
+mosaicist...
+87@hetertrophic@正在加载...
+88@autotroph@n. 自养生物,靠无机物质生存的生物
+
+形容词:  
+autotrophic
+
+副 词:  
+autotrophically
+
+名 词:  
+autotrophy
+89@chapin@n. 箱
+90@autotrophic@adj. 自造营养物质的,自给营养的
+91@stand@- n. 立脚点; 站立
+- 台, 座
+- 售货处; 摊
+- 看台, 观众席
+- 主张, 立场; 态度
+- 中止, 停顿
+- 抵抗, 抵御
+- vi. 坐落, 位于
+- 维持原状; 保持效力
+- 停着
+- vt. 竖放
+- 忍耐; 忍受; 经得起, 受得起
+- vt. & vi. 站立, (使)直立, 站着
+- vi. & link v. 处于某种状态
+- link v. 高度为…
+
+时 态:  
+stood 
+standing, stands 
+
+名 词:  
+stander...
+92@crown@- n. 王冠；王权；花冠；顶点
+- vt. 加冕；居…之顶；表彰；使圆满完成
+
+
+时 态:  
+crowned, crowning, crowns
+93@boreal@- adj. 北的,北方的,北方地区的
+- 北风的
+94@biometry@n. 寿命测定（等于biometrics）；生物统计学
+95@covariance@n. 协方差
+96@eddy@- n. 漩涡；涡流；逆流
+- vi. 旋转；起漩涡
+- vt. 使…起漩涡
+
+Eddy埃迪(姓氏)
+97@mitigation@n. 缓解,减轻,平静
+98@synthesis@- n. 综合, 综合法
+- 〈化〉合成
+
+名 词:  
+synthesist
+99@uptake@- n. (尤指对新事物的)理解力,领悟力
+- 举起;拿起
+- 上风井;上升烟道
+- 摄入,摄取(率)
+- 领悟得快/慢； 理解力强/弱
+100@transpiration@n. 蒸发(物),散发,蒸腾作用,流逸
+
+形容词:  
+transpirational
+101@hydrological@adj. 水文学的
